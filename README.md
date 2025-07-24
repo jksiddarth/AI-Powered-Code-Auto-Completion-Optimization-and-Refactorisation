@@ -1,4 +1,4 @@
-# AI-Powered-Code-Auto-Completion-and-Optimization
+# AI-Powered-Code-Auto-Completion-Optimization-and-Refactorisation
 This project demonstrates the development of an intelligent code assistant that uses transformer-based Natural Language Processing (NLP) models to understand user prompts written in plain English and generate, optimize, or refactor Python code. Leveraging GPT-Neo 1.3B and integrated with Gradio for a clean browser interface, the solution is also extended to Android devices through a native app using WebView. This makes AI-assisted programming accessible, flexible, and mobile-ready.
 
 ## 📌 Motivation
